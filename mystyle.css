@@ -1,0 +1,184 @@
+<style>
+
+	*{
+		margin: 0px;
+		padding: 0px;
+	}
+	
+		#div1{
+			background:#007bff; 
+			line-height: 2;
+			color: white;
+			position: static;
+		
+		}
+		.list{
+			list-style: none;
+			float: right;
+
+			
+		}
+		.list li{
+			float: left;
+			padding-right: 20px;
+			margin-top: 1%;
+			font-family: sans-serif;
+		}
+		.links{
+			color: white;
+		}
+		.links:hover{
+			color: white;
+		}
+		#search{
+			text-align: left;
+			width: 600px;
+			height: 40px;
+			font-style: italic;
+			padding-left: 20px;
+			border-radius: 5px;
+			margin-left: 30%;
+
+		}
+		#btn{ 
+		
+  			cursor: pointer;
+  		}
+		#div2{
+			background:#2e2e54;
+			color: white;
+			line-height: 2.5;
+			text-align: center;
+			
+		}
+		#ele{
+			padding-left: 140px;
+		}
+		#cart{
+			color: white;
+			text-align: center;
+			cursor: pointer;
+			background: #f1730a;
+		}
+		
+		
+
+		#leftsidebar{
+			
+			background: grey;
+
+		}
+		
+		#main{
+			margin-left:  2%;
+			margin-right:2%;
+		} 
+		#mainarea{
+			
+		}
+		#rightsidebar{
+			
+			background: grey;
+			
+		}
+		
+		.cat{
+			text-align: center;
+			color: #fff;
+			padding: 7px;
+			background: purple;
+			width: 100%;
+			margin-top:5%;
+			margin-bottom: 5%;
+		}
+		.cat-1{
+			text-align: center;
+			color: #fff;
+			padding: 9px;
+			background: purple;
+			width: 100%;
+
+
+
+
+		}
+		.cats{
+			width: 100%;
+			height: 100%;
+			
+		}
+		#left-ul{
+			text-align: left;
+			list-style: none;
+			margin-left: 9%;
+
+		}
+		#img{
+			height: auto;
+			width: 100%;
+		}
+		#sub-main{
+			margin: 2%;
+		}
+		
+		#footer{
+			
+  			 left: 0;
+  			 bottom: 0;
+  			 background:black; 
+			line-height: 2;
+			color: white;
+			width: 100%;
+			font-style: italic;
+			position: static;
+		}
+		#paging{
+			float: right;
+		}	
+
+		#social a{
+			
+			font-weight: bold;
+			padding: 10px;
+			color: black;
+			font-size: 40px;
+
+
+		}
+		#social a:hover{
+			
+			font-weight: bold;
+			
+			color: white;
+
+
+		}
+
+		#sub-footer{
+			background: #2e2e54;
+			border:thin;
+			height: 300px;
+
+		}
+		#sub-footer .col{
+			margin-top: 5%;
+			
+			margin-bottom: 3%;
+			margin-left: 2%;
+			margin-right: 2%;
+
+
+		}
+		#sub-footer .col p{
+			text-align: center;
+			color: white;
+
+
+		}
+		#sub-footer .col ul li{
+			text-align: left;
+			color: white;
+			margin-left: 8%;
+		}
+
+	</style>
